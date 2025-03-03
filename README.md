@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditgaur143
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning c++ language and python
+- 👀 I’m interested in web development and Machine Learning.
+- 🌱 I’m great in Python, WebD and DSA, currently I'm developing my Skills in Tensorflow.
 - 💞️ I’m looking to collaborate on computer science project
 - 📫 you can reach me on aditgaur25@gmail.com
 
